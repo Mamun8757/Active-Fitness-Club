@@ -1,0 +1,14 @@
+.activity img{
+    height: 200px;
+    width: 280px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
+.activity{
+    width: 280px;
+    height: 510;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    margin: 10px 0px 10px 0px;
+}
