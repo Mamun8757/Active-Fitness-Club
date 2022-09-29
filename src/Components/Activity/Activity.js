@@ -10,7 +10,7 @@ const Activity = (props) => {
                 <p>{benefit}</p>
                 <p id='bottom-space'>{time}</p>
             </div>
-            <button>
+            <button onClick={() => props.handleAddToList(props.activity)}>
                 <p>Add To List</p>
             </button>
         </div>
