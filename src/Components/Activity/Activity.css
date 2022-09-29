@@ -11,4 +11,36 @@
     border-radius: 8px;
     background-color: #FFFFFF;
     margin: 10px 0px 10px 0px;
+    position: relative;
+    padding: 8px;
+}
+.activity button{
+    width: 94%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    border: none;
+    border-radius: 8px;
+    background-color: blue;
+    color: #FFFFFF;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.activity button:hover{
+    background-color: rgb(132, 231, 132);
+    color: #000000;
+
+}
+.card-info{
+    color: rgb(129, 129, 129);
+}
+#bottom-space{
+    padding-bottom: 50px;
+    font-weight: 600;
+    color: #000000;
+}
+#activity-name{
+    font-weight: 700;
+    color: #000000;
 }

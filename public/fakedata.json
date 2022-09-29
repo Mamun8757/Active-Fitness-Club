@@ -2,31 +2,37 @@
     {
         "img": "https://media.istockphoto.com/photos/biracial-man-doing-push-ups-in-  sportswear-on-fitness-mat-picture-id1094479308?k=20&m=1094479308&s=612x612&w=0&h=TbFOztOhPybbo6-HWxp9LM17Y0EYD08SMWLYweiLNr0=",
         "name": "Push Up",
+        "benefit": "Pushups are a type of strength building exercise.",
         "time": "Time Required: 20s"
     },
     {
         "img": "https://thumbs.dreamstime.com/b/shirtless-man-doing-pull-up-crossfit-gym-66929708.jpg",
         "name": "Pull Up",
+        "benefit": "The pullup is one of the most effective exercises for strengthening the back muscles.",
         "time": "Time Required: 20s"
     },
     {
         "img": "https://www.verywellfit.com/thmb/PPJlPcEcTqUyplEnsosbU2GUiic=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/3436600-GettyImages-1315147126-daa70356b6e644b0a122a41c9c528962.jpg",
         "name": "Treadmill",
+        "benefit": "A treadmill is a device generally used for walking, running, or climbing.",
         "time": "Time Required: 20s"
     },
     {
         "img": "https://media.istockphoto.com/photos/closeup-of-weightlifter-clapping-hands-before-barbell-workout-a-picture-id601902710?b=1&k=20&m=601902710&s=170667a&w=0&h=jTbu9BXL45q4wt1UOjjo_FUnCRSYdyHyv9mQ8XwM02w=",
         "name": "Barbell",
+        "benefit": "Barbell is used for free weight training and competitive sports, such as powerlifting, Olympic weight lifting, and CrossFit.",
         "time": "Time Required: 20s"
     },
     {
         "img": "https://i.ytimg.com/vi/YEHkQFs3JI8/maxresdefault.jpg",
         "name": "Weight Plate",
+        "benefit": "Weight Plate is used in combination with barbells or dumbbells to produce a bar with a desired total weight for the purpose of physical exercise.",
         "time": "Time Required: 20s"
     },
     {
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-man-stretching-himself-on-a-foam-roller-royalty-free-image-1593684832.jpg",
         "name": "Exercise Roller",
+        "benefit": "Exercise Roller can help relieve muscle tightness, soreness, and inflammation, and increase your joint range of motion.",
         "time": "Time Required: 20s"
     }
 ]
