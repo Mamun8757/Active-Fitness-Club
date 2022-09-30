@@ -3,10 +3,12 @@ import './UserInfo.css'
 const UserInfo = (props) => {
     const {info} = props;
     
+
     let hour = 0;
     for(const activity of info){
         hour = hour + activity.time;
     }
+    
     return (
         <div className='information-container'>
             <div className='user-info'>

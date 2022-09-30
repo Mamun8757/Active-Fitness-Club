@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { addToDb } from '../../Utilities/fakedb';
 import Activity from '../Activity/Activity';
 import UserInfo from '../UserInfo/UserInfo';
 
@@ -16,6 +17,7 @@ const Main = () => {
     const handleAddToList = (activity) => {
         const newInfo = [...info, activity];
         setInfo(newInfo);
+        addToDb(activity.time);
     }
 
     return (
@@ -31,8 +33,9 @@ const Main = () => {
                 }
             </div>
             <div className='UserInformation-container'>
-                
-                <UserInfo info={info}></UserInfo>
+                <UserInfo 
+                info={info}
+                ></UserInfo>
                 
             </div>
         </div>
