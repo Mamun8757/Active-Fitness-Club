@@ -8,53 +8,6 @@
     
     margin-left: 5%;
 }
-.information-container{
-    border: 2px solid #FFFFFF;
-    border-radius: 8px;
-    height: 900px;
-    background-color: #FFFFFF;
-    padding: 16px;
-}
-#submit-btn{
-    background-color: blue;
-    color: #FFFFFF;
-    padding: 10px;
-    border: 1px solid blue;
-    border-radius: 4px;
-    width: 100%;
-    margin-top: 10px;
-    font-size: 18px;
-}
-.user-info img{
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-}
-.user-info{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    line-height: 4px;
-}
-.break-times{
-    display: flex;
-    justify-content: space-around;
-    border: 1px solid aliceblue;
-    background-color: aliceblue;
-    padding: 16px 0px 16px 0px;
-}
-.break-times button{
-    border: 1px solid #FFFFFF;
-    border-radius: 50%;
-    background-color: #FFFFFF;
-    height: 40px;
-    width: 40px;
-    align-items: center;
-}
-.break-times button:focus{
-    background-color: blue;
-    color: #FFFFFF;
-}
 
 /* Mobile Responsive */
 @media screen and (max-width: 576px) {
@@ -69,15 +22,6 @@
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         margin: auto;
-    }
-    
-}
-@media screen and (max-width: 576px) {
-    .information-container{
-        margin-left: 50px;
-        margin-right: 50px;
-        margin-top: 20px;
-        margin-bottom: 20px;
     }
     
 }

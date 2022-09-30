@@ -8,7 +8,7 @@ const Activity = (props) => {
             <div className='card-info'>
                 <p id='activity-name'>{name}</p>
                 <p>{benefit}</p>
-                <p id='bottom-space'>{time}</p>
+                <p id='bottom-space'>Time Required:{time}s</p>
             </div>
             <button onClick={() => props.handleAddToList(props.activity)}>
                 <p>Add To List</p>
