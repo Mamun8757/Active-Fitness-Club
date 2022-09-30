@@ -15,6 +15,16 @@
     background-color: #FFFFFF;
     padding: 16px;
 }
+#submit-btn{
+    background-color: blue;
+    color: #FFFFFF;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 18px;
+}
 .user-info img{
     height: 50px;
     width: 50px;

@@ -51,6 +51,7 @@ const Main = () => {
                     <button>40s</button>
                     <button>50s</button>
                 </div>
+                <button id='submit-btn'>Activity Completed</button>
             </div>
         </div>
         
