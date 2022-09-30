@@ -46,7 +46,7 @@ const UserInfo = (props) => {
             <div>
                 <h3>Exercise Details</h3>
                 <h5 id='exercise-timeCount'>Exercise Time: {hour} seconds</h5>
-                <h5 id='break-timeCount'>Break Time:</h5>
+                <h5 id='break-timeCount'>Break Time:0 seconds</h5>
             </div>
             <button id='submit-btn'>Activity Completed</button>
         </div>
