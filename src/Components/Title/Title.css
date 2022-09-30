@@ -7,6 +7,16 @@
     color: black;
 }
 
+.display-icon{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+#icon-size{
+    font-size: 40px;
+}
+
 /* Mobile Responsive */
 @media screen and (max-width: 576px) {
     .header-title {
