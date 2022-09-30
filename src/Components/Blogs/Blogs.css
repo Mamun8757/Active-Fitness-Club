@@ -1,0 +1,27 @@
+.blogs-container{
+    padding: 100px;
+    background-color: #fcfcfc;
+}
+.blogs-container h1{
+    border: 1px solid orangered;
+    border-radius: 8px;
+    background-color: orangered;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    color: #FFFFFF;
+    padding: 10px;
+}
+.blogs-elements{
+    margin-top: 40px;
+}
+.blogs-elements div{
+    background-color: aliceblue;
+    border: 2px solid aliceblue;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.blogs-elements div:hover{
+    background-color: #fcfcfc;
+}
