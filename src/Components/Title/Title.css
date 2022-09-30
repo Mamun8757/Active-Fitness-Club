@@ -6,3 +6,11 @@
 #select-title{
     color: black;
 }
+
+/* Mobile Responsive */
+@media screen and (max-width: 576px) {
+    .header-title {
+        text-align: center;
+    }
+
+}

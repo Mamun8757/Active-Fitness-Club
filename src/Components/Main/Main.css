@@ -45,3 +45,29 @@
     background-color: blue;
     color: #FFFFFF;
 }
+
+/* Mobile Responsive */
+@media screen and (max-width: 576px) {
+    .main-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
+@media screen and (max-width: 576px) {
+    .excercise-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: auto;
+    }
+    
+}
+@media screen and (max-width: 576px) {
+    .information-container{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+}
