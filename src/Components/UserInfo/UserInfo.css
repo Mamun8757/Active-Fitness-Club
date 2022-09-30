@@ -1,0 +1,9 @@
+.user-details{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid aliceblue;
+    border-radius: 8px;
+    background-color: aliceblue;
+    padding: 8px;
+
+}
